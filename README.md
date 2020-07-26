@@ -1,4 +1,4 @@
-# thermal-model-ANN
+# Thermal model ANN
 
 This repository contains the codebase and proof-of-work for my Final-Year Thesis. As mentioned in the repository description, the materials here demostrates the training, testing and implementation of Artificial Neural Networks on microcontrollers with TensorFlow/ TensorFlow Lite. These were part of the work done to evaluate the technical and commercial feasibility of using Machine Learning on Battery Management Systems for temperature estimation.
 
